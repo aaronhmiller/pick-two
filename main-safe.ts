@@ -173,7 +173,7 @@ const html = `
                 label: document.getElementById('label-safe'), 
                 item: document.getElementById('item-safe'),
                 positive: 'Safe', 
-                negative: 'Unsafe' 
+                negative: 'Risky' 
             },
             fast: { 
                 el: document.getElementById('toggle-fast'), 
