@@ -1,4 +1,4 @@
-// main.ts - Deno TypeScript server for Good/Fast/Cheap toggles
+// main.ts - Deno TypeScript server for Safe/Fast/Cheap toggles
 
 const html = `
 <!DOCTYPE html>
