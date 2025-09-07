@@ -135,7 +135,7 @@ const html = `
 <body>
     <div class="container">
         <h1>Project Triangle</h1>
-        <div class="subtitle">You can have all three... but there's a catch!</div>
+        <div class="subtitle">You can enable all three... but there's a catch!</div>
         
         <div class="toggle-item" id="item-good">
             <span class="toggle-label" id="label-good">Good</span>
@@ -227,7 +227,7 @@ const html = `
                 toggles[justClicked].label.classList.add('negative');
                 toggles[justClicked].item.classList.add('negative');
                 
-                info.textContent = \`You can have all three, but \${toggles[justClicked].positive} becomes \${toggles[justClicked].negative}!\`;
+                info.textContent = \`All three, but \${toggles[justClicked].positive} became \${toggles[justClicked].negative}!\`;
             }
         }
         
