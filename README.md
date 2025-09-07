@@ -4,7 +4,7 @@ The infamous limitation of pick two: good/fast/cheap (plus a security variation)
 
 ## Prerequisites
 
-Deno [installed](https://docs.deno.com/runtime/getting_started/installation/)
+Deno [installed](https://docs.deno.com/runtime/getting_started/installation/).
 
 ## Usage
 
