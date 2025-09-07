@@ -13,4 +13,4 @@ Deno [installed](https://docs.deno.com/runtime/getting_started/installation/).
 open [localhost:8000](http://localhost:8000)
 
 ## Next
-[] get sigstore working
+[] get sigstore working...testing
