@@ -1,6 +1,6 @@
 # Pick Two
 
-The famous (infamous?) limitation of good/fast/cheap and a security variation.
+The infamous limitation of good/fast/cheap and a security variation.
 
 ## Prerequisites
 
